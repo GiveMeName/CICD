@@ -7,5 +7,5 @@ test('addNum1', () => {
 
 test('addNum2', () => {
     const result = addNum(1, 5);
-    expect(result).toBe(7);
+    expect(result).toBe(6);
 });
